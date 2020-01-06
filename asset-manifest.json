@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FabricatorMusic/static/css/main.c082707e.chunk.css",
+    "main.js": "/FabricatorMusic/static/js/main.3b9b43e2.chunk.js",
+    "main.js.map": "/FabricatorMusic/static/js/main.3b9b43e2.chunk.js.map",
+    "runtime-main.js": "/FabricatorMusic/static/js/runtime-main.cfd4b6d1.js",
+    "runtime-main.js.map": "/FabricatorMusic/static/js/runtime-main.cfd4b6d1.js.map",
+    "static/js/2.e4557c2e.chunk.js": "/FabricatorMusic/static/js/2.e4557c2e.chunk.js",
+    "static/js/2.e4557c2e.chunk.js.map": "/FabricatorMusic/static/js/2.e4557c2e.chunk.js.map",
+    "index.html": "/FabricatorMusic/index.html",
+    "precache-manifest.f0627043c17f04c7becefbe99b1c0af2.js": "/FabricatorMusic/precache-manifest.f0627043c17f04c7becefbe99b1c0af2.js",
+    "service-worker.js": "/FabricatorMusic/service-worker.js",
+    "static/css/main.c082707e.chunk.css.map": "/FabricatorMusic/static/css/main.c082707e.chunk.css.map",
+    "static/js/2.e4557c2e.chunk.js.LICENSE": "/FabricatorMusic/static/js/2.e4557c2e.chunk.js.LICENSE",
+    "static/media/BlackPink_NWA.jpg": "/FabricatorMusic/static/media/BlackPink_NWA.32ffc124.jpg",
+    "static/media/QNightclub.jpg": "/FabricatorMusic/static/media/QNightclub.e0962a58.jpg",
+    "static/media/logo.svg": "/FabricatorMusic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfd4b6d1.js",
+    "static/js/2.e4557c2e.chunk.js",
+    "static/css/main.c082707e.chunk.css",
+    "static/js/main.3b9b43e2.chunk.js"
+  ]
+}
