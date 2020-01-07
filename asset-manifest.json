@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/FabricatorMusic/static/css/main.c082707e.chunk.css",
-    "main.js": "/FabricatorMusic/static/js/main.3b9b43e2.chunk.js",
-    "main.js.map": "/FabricatorMusic/static/js/main.3b9b43e2.chunk.js.map",
+    "main.css": "/FabricatorMusic/static/css/main.03f6999a.chunk.css",
+    "main.js": "/FabricatorMusic/static/js/main.887947fb.chunk.js",
+    "main.js.map": "/FabricatorMusic/static/js/main.887947fb.chunk.js.map",
     "runtime-main.js": "/FabricatorMusic/static/js/runtime-main.cfd4b6d1.js",
     "runtime-main.js.map": "/FabricatorMusic/static/js/runtime-main.cfd4b6d1.js.map",
-    "static/js/2.e4557c2e.chunk.js": "/FabricatorMusic/static/js/2.e4557c2e.chunk.js",
-    "static/js/2.e4557c2e.chunk.js.map": "/FabricatorMusic/static/js/2.e4557c2e.chunk.js.map",
+    "static/js/2.8ccc69cd.chunk.js": "/FabricatorMusic/static/js/2.8ccc69cd.chunk.js",
+    "static/js/2.8ccc69cd.chunk.js.map": "/FabricatorMusic/static/js/2.8ccc69cd.chunk.js.map",
     "index.html": "/FabricatorMusic/index.html",
-    "precache-manifest.f0627043c17f04c7becefbe99b1c0af2.js": "/FabricatorMusic/precache-manifest.f0627043c17f04c7becefbe99b1c0af2.js",
+    "precache-manifest.55226938a661fc5a7e9f91fcd1b4270e.js": "/FabricatorMusic/precache-manifest.55226938a661fc5a7e9f91fcd1b4270e.js",
     "service-worker.js": "/FabricatorMusic/service-worker.js",
-    "static/css/main.c082707e.chunk.css.map": "/FabricatorMusic/static/css/main.c082707e.chunk.css.map",
-    "static/js/2.e4557c2e.chunk.js.LICENSE": "/FabricatorMusic/static/js/2.e4557c2e.chunk.js.LICENSE",
+    "static/css/main.03f6999a.chunk.css.map": "/FabricatorMusic/static/css/main.03f6999a.chunk.css.map",
+    "static/js/2.8ccc69cd.chunk.js.LICENSE": "/FabricatorMusic/static/js/2.8ccc69cd.chunk.js.LICENSE",
     "static/media/BlackPink_NWA.jpg": "/FabricatorMusic/static/media/BlackPink_NWA.32ffc124.jpg",
     "static/media/QNightclub.jpg": "/FabricatorMusic/static/media/QNightclub.e0962a58.jpg",
+    "static/media/Tilt_logo.png": "/FabricatorMusic/static/media/Tilt_logo.f03b9617.png",
     "static/media/logo.svg": "/FabricatorMusic/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cfd4b6d1.js",
-    "static/js/2.e4557c2e.chunk.js",
-    "static/css/main.c082707e.chunk.css",
-    "static/js/main.3b9b43e2.chunk.js"
+    "static/js/2.8ccc69cd.chunk.js",
+    "static/css/main.03f6999a.chunk.css",
+    "static/js/main.887947fb.chunk.js"
   ]
 }
