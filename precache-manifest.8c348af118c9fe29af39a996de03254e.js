@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc4b14a277a68860b2766607d553c7ce",
+    "revision": "2895c4effde2ac91cfdd8668c5f60dd7",
     "url": "/FabricatorMusic/index.html"
   },
   {
-    "revision": "661f0c98c4e62a47632d",
-    "url": "/FabricatorMusic/static/css/main.03f6999a.chunk.css"
+    "revision": "ec743880af52214c3219",
+    "url": "/FabricatorMusic/static/css/main.4ecaa39d.chunk.css"
   },
   {
     "revision": "5b4417478b921f2541d8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FabricatorMusic/static/js/2.8ccc69cd.chunk.js.LICENSE"
   },
   {
-    "revision": "661f0c98c4e62a47632d",
-    "url": "/FabricatorMusic/static/js/main.887947fb.chunk.js"
+    "revision": "ec743880af52214c3219",
+    "url": "/FabricatorMusic/static/js/main.ea90a330.chunk.js"
   },
   {
     "revision": "ed6b2ed3be68cc83b516",
